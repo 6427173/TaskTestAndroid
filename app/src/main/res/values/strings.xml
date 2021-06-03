@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Demo Example</string>
+    <string name="image">image</string>
+    <string name="rentickle">Rentickle</string>
+    <string name="search_here">Search Here</string>
+    <string name="product_name">Sofa Boleria</string>
+    <string name="rating_product">1034 Ratings| 104 Reviews</string>
+    <string name="rent">Rent</string>
+    <string name="price">$799/Month</string>
+    <string name="money_refund">$1889/Month</string>
+    <string name="months_free">$5039 for 36Month</string>
+    <string name="refunable">Refundable Deposit</string>
+    <string name="discount">Get 10% off on this product by  using coupon code RENTO</string>
+    <string name="offers">View All Offers</string>
+    <string name="tenure_input">Please Enter your tenure</string>
+    <string name="add_to_chart">Add to chart</string>
+    <string name="size_txt">Select Size</string>
+</resources>
